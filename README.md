@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nhan Nguyen</h1>
 <h3 align="center">A junior in University of Information Technology</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog"/>
+<img align="right" alt="Coding" width="400" height="350" src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gifv"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhanna1219&label=Profile%20views&color=0e75b6&style=flat" alt="nhanna1219" /> </p>
 
